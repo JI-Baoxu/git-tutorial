@@ -5,5 +5,5 @@ This File is used to test github.
 
 -feature A
 -fix-B
--feature-C
+-faeture-C
 
